@@ -42,9 +42,9 @@ A modern, interactive web application that helps users identify potentially mali
 4. **Results Display**: Shows detailed analysis with specific risk factors
 5. **Recommendations**: Provides clear guidance on whether to proceed
 
-## 🔗 **Datadog Integration**
+## 🔗 **Datadog Links**
 
-This app is powered by **Datadog Security Labs** and integrates with:
+Go check out the amazing open source tools from Datadog for security analysis:
 
 - **[Guarddog CLI](https://github.com/DataDog/guarddog)**: Command-line tool for security analysis
 - **[Datadog App](https://app.datadoghq.com)**: Main Datadog monitoring platform
